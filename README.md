@@ -13,3 +13,5 @@ The neural net is currently implemented with a few relu hidden layers and a soft
 ### Resources
 * [Kaggle Challenge](https://www.kaggle.com/c/quora-question-pairs)
 * [Dataset](https://www.kaggle.com/c/quora-question-pairs/download/test.csv.zip)
+
+**Stack**: [scikit-learn](http://scikit-learn.org/stable/), [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/)
